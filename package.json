@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.reorderablelist",
-  "version": "1.0.0",
-  "displayName": "UnityEssentials Editor Drawer ReorderableList",
+  "name": "com.unityessentials.editor.drawer.reorderablelist",
+  "version": "2.0.0",
+  "displayName": "Editor Drawer ReorderableList",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
