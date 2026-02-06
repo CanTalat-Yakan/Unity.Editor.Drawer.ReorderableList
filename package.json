@@ -1,0 +1,20 @@
+{
+  "name": "com.unityessentials.reorderablelist",
+  "version": "1.0.0",
+  "displayName": "UnityEssentials Editor Drawer ReorderableList",
+  "description": "This is a part of the UnityEssentials Ecosystem",
+  "unity": "6000.0",
+  "unityRelease": "",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "Unity Essentials",
+    "email": "",
+    "url": ""
+  },
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "samples": [],
+  "hideInEditor": true
+}
