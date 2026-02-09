@@ -21,7 +21,7 @@ namespace UnityEssentials
         public VisualElement DoLayoutList() => _doLayoutList();
         public void Refresh() => _refresh();
     }
-    
+
     /// <summary>
     /// Simplified UI Toolkit reorderable list that binds directly to an <see cref="IList{T}"/>,
     /// similar to IMGUI <c>ReorderableList</c> usage.
