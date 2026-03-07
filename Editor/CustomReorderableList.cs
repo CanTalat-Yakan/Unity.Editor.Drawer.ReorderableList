@@ -21,7 +21,7 @@ namespace UnityEssentials
             if (spaceAttribute != null)
                 EditorGUILayout.Space(spaceAttribute.height);
 
-            string cacheKey = property.serializedObject.targetObject.GetInstanceID().ToString() + property.propertyPath;
+            string cacheKey = property.serializedObject.targetObject.GetEntityId().ToString() + property.propertyPath;
 
             ReorderableList reorderableList = null;
             if (!_listsCache.TryGetValue(cacheKey, out reorderableList))
